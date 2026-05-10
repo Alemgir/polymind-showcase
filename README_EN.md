@@ -1,4 +1,4 @@
-# Polymind - AI-Powered Language Learning Ecosystem 🌍🧠
+# Polymind - AI-Powered Language Learning Ecosystem
 
 👉 **[Türkçe Versiyon İçin Tıklayın (Read in Turkish)](README.md)** 👈
 
@@ -7,57 +7,49 @@
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 
-> **⚠️ Note:** This repository is intended **strictly for portfolio and showcase purposes**. The source code for the Polymind ecosystem (Mobile App, Backend, Admin Panel, and App Landing) is maintained in private enterprise repositories to protect proprietary intellectual property and business logic.
+> **Note:** This repository is intended **strictly for portfolio and showcase purposes**. The source code for the Polymind ecosystem (Mobile App, Backend, Admin Panel, and App Landing) is maintained in private enterprise repositories to protect proprietary intellectual property and business logic.
 
-## 🚀 About The Project
+## About The Project
 Polymind is not just a mobile application; it is a full-fledged language learning ecosystem designed to make language acquisition natural, immersive, and AI-supported. Currently live on the App Store, it combines advanced speech recognition, spaced repetition algorithms, and minigames to redefine the educational experience.
 
-## 📸 Ecosystem Showcase
+## Ecosystem Showcase
 
-### 🏠 App Home Page
-*(Note: A beautiful home page screenshot will be visible here once `home_page.png` is added to the `assets` folder.)*
-<div align="center">
-  <img src="assets/home_page.png" width="300" alt="Home Page"/>
-</div>
-
-### 📝 App Store Presentation
+### App Store Presentation
 <div align="center">
   <img src="assets/app_store_da_görünüşü.png" width="800" alt="App Store"/>
 </div>
 
-### 🎯 Placement Test
+### Mobile App Screens
 <div align="center">
-  <img src="assets/seviye_belirleme_sınavı.png" width="300" alt="Placement Test"/>
+  <img src="assets/home_page.png" width="350" alt="Home Page"/>
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="assets/seviye_belirleme_sınavı.png" width="350" alt="Placement Test"/>
+</div>
+<br>
+<div align="center">
+  <img src="assets/günlük_görev.png" width="350" alt="Daily Tasks"/>
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="assets/profil ekran.png" width="350" alt="Profile Screen"/>
 </div>
 
-### 📅 Daily Tasks & Progression
+### Interactive Mini Games
 <div align="center">
-  <img src="assets/günlük_görev.png" width="300" alt="Daily Tasks"/>
+  <img src="assets/oyunlar.png" width="400" alt="Games"/>
 </div>
 
-### 👤 User Profile Screen
-<div align="center">
-  <img src="assets/profil ekran.png" width="300" alt="Profile Screen"/>
-</div>
-
-### 🎮 Interactive Mini Games (Flame Engine)
-<div align="center">
-  <img src="assets/oyunlar.png" width="800" alt="Games"/>
-</div>
-
-### 💻 CMS / Admin Dashboard
+### CMS / Admin Dashboard
 <div align="center">
   <img src="assets/admin_panel.png" width="800" alt="Admin Panel"/>
 </div>
 
-### 🌐 Mobile App Landing Website
+### Mobile App Landing Website
 <div align="center">
   <img src="assets/website.png" width="800" alt="Website"/>
 </div>
 
 ---
 
-## 🏗️ Technical Architecture & Tech Stack
+## Technical Architecture & Tech Stack
 
 The architecture is distributed into 4 main decoupled micro-applications, built with the latest enterprise-level standards.
 

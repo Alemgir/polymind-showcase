@@ -1,4 +1,4 @@
-# Polymind - Yapay Zeka Destekli Dil Öğrenme Ekosistemi 🌍🧠
+# Polymind - Yapay Zeka Destekli Dil Öğrenme Ekosistemi
 
 👉 **[Read in English (İngilizce Versiyon İçin Tıklayın)](README_EN.md)** 👈
 
@@ -7,57 +7,49 @@
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 
-> **⚠️ Not:** Bu depo yalnızca **portfolyo ve sergileme amaçlıdır**. Polymind ekosistemine ait (Mobil, Backend, Admin, Web) tüm kaynak kodlar, fikri mülkiyeti ve sistem güvenliğini korumak amacıyla gizli (private) depolarda tutulmaktadır.
+> **Not:** Bu depo yalnızca **portfolyo ve sergileme amaçlıdır**. Polymind ekosistemine ait (Mobil, Backend, Admin, Web) tüm kaynak kodlar, fikri mülkiyeti ve sistem güvenliğini korumak amacıyla gizli (private) depolarda tutulmaktadır.
 
-## 🚀 Proje Hakkında
+## Proje Hakkında
 Polymind, yeni bir dil öğrenme sürecini doğal, sürükleyici ve yapay zeka destekli hale getirmek için sıfırdan geliştirilmiş devasa bir eğitim ekosistemidir. Şu an App Store'da yayında olan sistem; ileri düzey konuşma tanıma, aralıklı tekrar algoritmaları ve mini oyunları harmanlayarak dil eğitimine yeni bir standart getirmektedir.
 
-## 📸 Ekosistem Görselleri
+## Ekosistem Görselleri
 
-### 🏠 Ana Ekran (Home Page)
-*(Not: Portfolio için `assets` klasörüne `home_page.png` isimli resminizi eklediğinizde burada tam boyutuyla harika gözükecektir.)*
-<div align="center">
-  <img src="assets/home_page.png" width="300" alt="Yakında Eklenecek"/>
-</div>
-
-### 📝 App Store Mağaza Görünümü
+### App Store Mağaza Görünümü
 <div align="center">
   <img src="assets/app_store_da_görünüşü.png" width="800" alt="App Store"/>
 </div>
 
-### 🎯 Öğrenci Seviye Belirleme Sınavı
+### Mobil Uygulama Ekranları
 <div align="center">
-  <img src="assets/seviye_belirleme_sınavı.png" width="300" alt="Seviye Belirleme"/>
+  <img src="assets/home_page.png" width="350" alt="Ana Ekran"/>
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="assets/seviye_belirleme_sınavı.png" width="350" alt="Seviye Belirleme Sınavı"/>
+</div>
+<br>
+<div align="center">
+  <img src="assets/günlük_görev.png" width="350" alt="Günlük Görevler"/>
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="assets/profil ekran.png" width="350" alt="Profil Ekranı"/>
 </div>
 
-### 📅 Günlük Görevler ve İlerleyiş
+### İnteraktif Mini Oyunlar
 <div align="center">
-  <img src="assets/günlük_görev.png" width="300" alt="Günlük Görev"/>
+  <img src="assets/oyunlar.png" width="400" alt="Mini Oyunlar"/>
 </div>
 
-### 👤 Kullanıcı Profil Ekranı
+### CMS / Admin Yönetim Paneli
 <div align="center">
-  <img src="assets/profil ekran.png" width="300" alt="Profil Ekranı"/>
+  <img src="assets/admin_panel.png" width="800" alt="Admin Paneli"/>
 </div>
 
-### 🎮 İnteraktif Mini Oyunlar (Flame Engine)
+### Mobil Uygulama Tanıtım (Landing) Sayfası
 <div align="center">
-  <img src="assets/oyunlar.png" width="800" alt="Oyunlar"/>
-</div>
-
-### 💻 CMS / Admin Yönetim Paneli
-<div align="center">
-  <img src="assets/admin_panel.png" width="800" alt="Admin Panel"/>
-</div>
-
-### 🌐 Mobil Uygulama Tanıtım (Landing) Sayfası
-<div align="center">
-  <img src="assets/website.png" width="800" alt="Website"/>
+  <img src="assets/website.png" width="800" alt="Web Sitesi"/>
 </div>
 
 ---
 
-## 🏗️ Teknik Mimari ve Teknoloji Yığını
+## Teknik Mimari ve Teknoloji Yığını
 
 Polymind, son teknoloji kurumsal standartlar baz alınarak birbirinden bağımsız 4 farklı projeden oluşmaktadır.
 
